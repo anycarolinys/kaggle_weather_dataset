@@ -3,7 +3,7 @@
 <!-- ![alt text](./LA_map.png) -->
 <img src="https://media.istockphoto.com/id/1048148458/pt/vetorial/map-of-latin-america.jpg?s=612x612&w=0&k=20&c=RrFymUIwQdELHW5oDGeEgdJzr5pUAxV7hwmlXu7QzcQ=" alt="Latin America Map" width="300"/>  
 
-Fonte: PNGItem (2024)
+Fonte: iStock (2018)
 
 # Open-Meteo API Project
 
