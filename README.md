@@ -25,7 +25,7 @@ The application retrieves the following daily climate parameters for the specifi
 
 ## Air Quality Parameters
 
-The application also retrieves the following hourly air quality parameters for the specified latitude and longitude between July 29, 2022, and April 20, 2024:
+The application also retrieves the following daily air quality parameters for the specified latitude and longitude between July 29, 2022, and April 20, 2024:
 
 - PM10
 - PM2.5
